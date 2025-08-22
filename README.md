@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
