@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0133-clone-graph](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Gobi-Chai/leetcode-solution/tree/master/1036-rotting-oranges) |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
