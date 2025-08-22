@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0198-house-robber) |
