@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Graph
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
