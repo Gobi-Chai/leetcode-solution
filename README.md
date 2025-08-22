@@ -17,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0198-house-robber) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
