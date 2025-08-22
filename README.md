@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0257-binary-tree-paths) |
