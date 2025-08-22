@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1036-rotting-oranges](https://github.com/Gobi-Chai/leetcode-solution/tree/master/1036-rotting-oranges) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
