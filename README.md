@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
