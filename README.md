@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Gobi-Chai/leetcode-solution/tree/master/1036-rotting-oranges) |
 ## Backtracking
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Graph
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
