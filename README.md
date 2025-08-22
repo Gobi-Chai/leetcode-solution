@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0200-number-of-islands) |
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gobi-Chai/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
